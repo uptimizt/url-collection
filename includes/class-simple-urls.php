@@ -38,7 +38,7 @@ class Simple_Urls {
 		$rewrite_slug_default = 'go';
 
 		$labels = array(
-			'name'               => __( 'Simple URLs', 'simple-urls' ),
+			'name'               => __( 'URLs', 'simple-urls' ),
 			'singular_name'      => __( 'URL', 'simple-urls' ),
 			'add_new'            => __( 'Add New', 'simple-urls' ),
 			'add_new_item'       => __( 'Add New URL', 'simple-urls' ),
