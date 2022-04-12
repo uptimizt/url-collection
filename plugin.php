@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: URL Redirecter
- * Plugin URI: https://github.com/uptimizt/url-redirecter
+ * Plugin Name: URL Collection
+ * Plugin URI: https://github.com/uptimizt/url-collection
  * Description: Simple URLs is a complete URL management system that allows you create, manage, and track outbound links from your site by using custom post types and 301 redirects.
  * Author: uptimizt
  * Author URI: https://github.com/uptimizt/
